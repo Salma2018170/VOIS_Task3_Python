@@ -53,11 +53,11 @@ To run the project in PyCharm, follow these steps:
 3. Place your `Employees.csv` file inside the project directory.
 
 4. Set up the Python script as the main script:
-    - Right-click `employee_data_processing.py` in the Project pane and select **Run 'employee_data_processing'**.
+    - Right-click `main.py` in the Project pane and select **Run 'main'**.
 
 5. Check the **Run** pane for the output statistics and verify that `EmployeesAfterUpdate.csv` is created.
 
 ## File Descriptions
 - **Employees.csv**: The input CSV file containing raw employee data.
-- **employee_data_processing.py**: The main Python script that processes the employee data and performs the required tasks.
+- **main.py**: The main Python script that processes the employee data and performs the required tasks.
 - **EmployeesAfterUpdate.csv**: The output CSV file generated after data cleaning and processing.
