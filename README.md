@@ -23,7 +23,7 @@ This project loads employee data from a CSV file into a pandas DataFrame, perfor
 
 
 ## Technologies Used
-- **Python 3.x**
+- **Python 3.12.3**
 - **pandas**: For data manipulation and analysis.
 - **CSV module**: For handling CSV file operations.
 
